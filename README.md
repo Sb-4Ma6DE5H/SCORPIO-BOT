@@ -1,6 +1,8 @@
 ## ഹേയ് മലയാളി..
 
-instagram ```bash lammiiz ```
+instagram ```bash
+lamiiz
+```
 
 
 # `🧿 𝚃𝚑𝚎 scorpio - 𝙱𝚘𝚝 🔮`
