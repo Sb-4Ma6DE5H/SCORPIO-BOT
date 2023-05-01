@@ -1,5 +1,6 @@
 ## ഹേയ് മലയാളി..
-instagram ```bash
+instagram 
+```bash
 apt-get install nodejs
 ```
 
