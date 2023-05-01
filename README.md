@@ -1,8 +1,5 @@
 ## ഹേയ് മലയാളി..
-instagram 
-```bash
-apt-get install nodejs
-```
+https://instagram.com/_lamii.__x?igshid=ZDdkNTZiNTM=
 
 
 # `🧿 𝚃𝚑𝚎 scorpio - 𝙱𝚘𝚝 🔮`
