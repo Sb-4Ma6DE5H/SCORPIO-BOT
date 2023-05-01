@@ -16,48 +16,67 @@ not created support group
 
  > DO NOT SPAM COMMANDS
 
-### `—◉ 💰 DONAR 💰`
-- THANK WITH A VOLUNTARY DONATION [Aqui](https://www.paypal.me/TheShadowBrokers133)
+### `—◉ 💰 DONATE 💰`
+- THANK WITH A VOLUNTARY DONATION [closed](url)
 
-### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
+### `—◉ 🖍 BOT LETTER 🖍`
+- PAGE USED FOR THE LETTER [closed](url)
 
-### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
-- PAGINA [Aqui](https://beta.openai.com/playground)
+### `—◉ 💡 EXPERIMENT WITH AN AI FOR NEW COMMANDS 💡`
+- PAGINA [closed](https://beta.openai.com/playground)
 
-### `—◉ 💕 PLUGINS 💕`
-- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
+<!-- ### `—◉ 💕 PLUGINS 💕` -->
+<!-- - HAVE IDEAS FOR PLUGINS OR WANT TO GET MORE PLUGINS? CLICK ON [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins) -->
   
-### `—◉ 💥 ACTIVAR EN KOYEB 💥`
+<!-- ### `—◉ 💥 ACTIVAR EN KOYEB 💥` -->
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/BrunoSobrino/TheMystic-Bot-MD&branch=master&name=mysticbot)
+<!-- [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/BrunoSobrino/TheMystic-Bot-MD&branch=master&name=mysticbot) -->
   
-### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+<!-- ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌` -->
 
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD) 
+<!-- [![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD)  -->
   
-### `—◉ 🔰 ACTIVAR EN RENDER 🔰`
+<!-- ### `—◉ 🔰 ACTIVAR EN RENDER 🔰` -->
+<!-- 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBrunoSobrino%2FTheMystic-Bot-MD)  -->
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBrunoSobrino%2FTheMystic-Bot-MD) 
-
-### `—◉ ⚙️ AJUSTES ⚙️`
+<!-- ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js) -->
 
-### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
-- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+### `—◉ 👾 ACTIVATE IN UBUNTU OTHER TERMINSL 👾` 
+- TYPE THE FOLLOWING COMMANDS ONE BY ONE:
 ```bash
-cd && termux-setup-storage
+sudo su
 ```
-
+- TYPE IN ROOT ACCESS PASSWORD
 ```bash
-apt-get update -y && apt-get upgrade -y
+apt-get update
 ```
-
 ```bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
+apt-get upgrade
 ```
-
+ 
+```bash
+apt-get install git
+```
+```bash
+apt-get install nodejs
+```
+ 
+```bash
+apt-get install ffmpeg
+```
+ 
+```bash
+apt-get install imagemagick
+```
+ 
+ ```bash
+apt-get install yarn
+```
+ 
+ 
 ```bash
 git clone https://github.com/BrunoSobrino/Mystic-termux.git && cd Mystic-termux
 ```
