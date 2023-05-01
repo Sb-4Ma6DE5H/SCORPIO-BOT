@@ -84,7 +84,7 @@ apt-get install yarn
 git clone https://github.com/lamiiz/scorpio-bot.git
 ```
 ```bash
-cd scorpio-bot start
+cd SCORPIO-BOT
 ```
  
 ```bash
@@ -100,7 +100,7 @@ node .
   - TYPE THE FOLLOWING COMMANDS ONE BY ONE:
 ```bash
 cd 
-cd scorpio-bot
+cd SCORPIO-BOT
 node .
 ```
 
@@ -110,7 +110,7 @@ node .
  TYPE THE FOLLOWING COMMANDS ONE BY ONE:
 ```bash
 cd
-cd scorpio-bot
+cd SCORPIO-BOT
 rm -rf MysticSession
 node .
 ```
