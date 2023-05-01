@@ -1,7 +1,6 @@
 ## ഹേയ് മലയാളി..
-
 instagram ```bash
-lamiiz
+apt-get install nodejs
 ```
 
 
