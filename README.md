@@ -1,6 +1,6 @@
 ## ഹേയ് മലയാളി..
 
-* [click hear](https://instagram.com/_lamii.__x?igshid=ZDdkNTZiNTM=)
+* [https://github.com/lamiiz/SCORPIO-BOT/blob/main/media/image/Instagram.svg](https://instagram.com/_lamii.__x?igshid=ZDdkNTZiNTM=)
 
 # `🧿 𝚃𝚑𝚎 scorpio - 𝙱𝚘𝚝 🔮`
 
