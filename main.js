@@ -90,7 +90,7 @@ return { conversation: "hello, i'm BrunoSobrino" }},
 msgRetryCounterMap,
 logger: pino({ level: 'silent' }),
 auth: state,
-browser: ['MysticBot','Safari','9.7.0'],
+browser: ['SCORPIO','Safari','9.7.0'],
 version   
 }
 

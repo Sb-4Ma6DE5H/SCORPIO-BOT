@@ -13,11 +13,11 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('Mystic - Bot\nWhatsApp Bot MD', {
+say('SCORPIO - BOT\nWhatsApp Bot lamiiz', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Bot creado por Bruno Sobrino`, {
+say(`Bot created by lamiiz malappuram`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
@@ -32,7 +32,7 @@ if (isRunning) return
 isRunning = true
 let args = [join(__dirname, file), ...process.argv.slice(2)]
 
-say('Ajuste la pantalla para escanear el codigo QR', {
+say('Adjust the screen to scan the QR code', {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
